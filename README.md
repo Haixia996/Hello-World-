@@ -1,7 +1,4 @@
 # Hello-World
-hello, hello, hello
-
-
 - [PROJECT TITLE](#Project-Title).
 - [DESCRIPTION](Description).
 - [HOW TO RUN PROGRAM](#How-to-run-program)
@@ -10,15 +7,13 @@ hello, hello, hello
 - [VERSIONING](#versioning).
 
 ## Project Title
-
 *Hello World Sample*
 
 ## Description
 Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
 
 ## How to Run Program
-Explain here how you would run the program and what files need to be available.
-![alt text](image.jpg)
+Explain here how you would run the program and what files need to be available.![alt text](image.jpg)
    
 ## Files Used
 - Did you use any data files?
