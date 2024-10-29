@@ -2,12 +2,12 @@
 hello, hello, hello
 
 
-1. [PROJECT TITLE](#Project-Title).
-2. [DESCRIPTION](Description).
-3. [HOW TO RUN PROGRAM](#How-to-run-program)
-4. [FILES USED](#files-used)
-5. [ADDITIONA DOCUMENTATION](#additional-documentation)
-6. [VERSIONING](#versioning).
+-[PROJECT TITLE](#Project-Title).
+-[DESCRIPTION](Description).
+-[HOW TO RUN PROGRAM](#How-to-run-program)
+-[FILES USED](#files-used)
+-[ADDITIONA DOCUMENTATION](#additional-documentation)
+-[VERSIONING](#versioning).
 
 ## Project Title
 
