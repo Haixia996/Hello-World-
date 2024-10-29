@@ -26,12 +26,12 @@ Explain here how you would run the program and what files need to be available.
     │── examples.html)
    
 ## Files Used
-1. Did you use any datafiles?
-2. List filenames
-3. Where you got them
-4. What is contained within the data files?
-5. Datafile considerations
-6. URL links to files - example here: [Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
+- Did you use any datafiles?
+- List filenames
+-  Where you got them
+-  hat is contained within the data files?
+-  atafile considerations
+-  RL links to files - example here: [Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
 
 ## Additional Documentation
 No additional documentation at this time. Here is some **BOLD text**
