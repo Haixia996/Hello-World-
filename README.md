@@ -14,16 +14,16 @@ hello, hello, hello
 *Hello World Sample*
 
 ## Description
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project. 
-
-## How to Run Program
-Explain here how you would run the program and what files need to be available.
-![Hello_World/]
-(└── 
+![alt Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.](Hello_World/
+└── 
     │── README.md
     │── pgmname1.R
     │── filename1.csv
-    │── examples.html)
+    │── examples.html
+   ) 
+![alt text](image.jpg)
+## How to Run Program
+Explain here how you would run the program and what files need to be available.
    
 ## Files Used
 - Did you use any data files?
