@@ -18,12 +18,12 @@ Pe=ractice using GitHub by creating a sample repository. Make sure you add a des
 
 ## How to Run Program
 Explain here how you would run the program and what files need to be available.
-Hello_World/
-└── 
+![Hello_World/]
+(└── 
     │── README.md
     │── pgmname1.R
     │── filename1.csv
-    │── examples.html
+    │── examples.html)
    
 ## Files Used
 1. Did you use any datafiles?
