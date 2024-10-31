@@ -8,15 +8,7 @@
 ## Project Title
 *Hello World Sample*
 ## Description
-Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
-## How to Run Program
-Explain here how you would run the program and what files need to be available.![Coding Photo](Hello_World/
-└── 
-    │── README.md
-    │── pgmname1.R
-    │── filename1.csv
-    │── examples.html
-   )   
+Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project. 
 ## Files Used
 - Did you use any data files?
 - List filenames
@@ -24,6 +16,8 @@ Explain here how you would run the program and what files need to be available.!
 - What is contained within the data files?
 - Datafile considerations
 - RL links to files - example here: [Baby names from 1880 to present](https://catalog.data.gov/dataset/baby-names-from-social-security-card-applications-national-level-data)
+## How to Run Program
+Explain here how you would run the program and what files need to be available.![Python Photo](
 ## Additional Documentation
 No additional documentation at this time. Here is some **BOLD text**
 ## Versioning
