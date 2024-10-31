@@ -10,7 +10,7 @@
 ## Description
 Practice using GitHub by creating a sample repository. Make sure you add a description to help others understand your project.
 ## How to Run Program
-Explain here how you would run the program and what files need to be available.![Python photo](Python_language.jpg)   
+Explain here how you would run the program and what files need to be available.![Coding Photo](Hello World.png)   
 ## Files Used
 - Did you use any data files?
 - List filenames
